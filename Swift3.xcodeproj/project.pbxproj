@@ -83,6 +83,7 @@
 				04A27A471CAD149800AAA91A /* Products */,
 			);
 			sourceTree = "<group>";
+			wrapsLines = 0;
 		};
 		04A27A471CAD149800AAA91A /* Products */ = {
 			isa = PBXGroup;
